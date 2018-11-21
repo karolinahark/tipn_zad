@@ -1,0 +1,4 @@
+Pojemność dysku: SSD 128 GB z magistralą PCIe
+Ilość pamięci RAM: 8 GB pamięci RAM DDR3 1600 MHz
+Rodzaj i prędkość procesora: Intel Core i5 1,8 GHz
+System 64-bitowy
